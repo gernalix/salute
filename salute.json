@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "tests": [
+    {
+      "datetime": "2026-09-03T11:44:00+02:00",
+      "category": "microbiology",
+      "examination": "Chlamydia og gonokokker DNA/RNA",
+      "material": "Urin",
+      "location": null,
+      "overall_result": "Negativ",
+      "status": "Komplet svar",
+      "measurements": [
+        {
+          "analysis": "Chlamydia trachomatis (TMA)",
+          "interpretation": "Negativ",
+          "result": "Ikke påvist"
+        },
+        {
+          "analysis": "Neisseria gonorrhoeae (TMA)",
+          "interpretation": "Negativ",
+          "result": null
+        }
+      ]
+    },
+    {
+      "datetime": "2026-09-03T11:44:00+02:00",
+      "category": "microbiology",
+      "examination": "Chlamydia og gonokokker DNA/RNA",
+      "material": "Podning",
+      "location": "Svælg og rektum",
+      "overall_result": "Negativ",
+      "status": "Komplet svar",
+      "measurements": [
+        {
+          "analysis": "Chlamydia trachomatis (TMA)",
+          "interpretation": "Negativ",
+          "result": "Ikke påvist"
+        },
+        {
+          "analysis": "Neisseria gonorrhoeae (TMA)",
+          "interpretation": "Negativ",
+          "result": null
+        }
+      ]
+    }
+  ]
+}
